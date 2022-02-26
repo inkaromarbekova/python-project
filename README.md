@@ -7,5 +7,9 @@ Covid 19 Vaccinations project in Python.
 
 2 hypothesis ( Pearson Correlation Test):1.between the overall population and fully vaccinated people,2. between partially vaccinated and fully vaccinated people
 
-Status: completed
+Compared data of different vaccination programs by country and manufacture. 
+Checked for a death rate correlation to the different programs.
+The hypothesis studied the possibility of a correlation between the extent of the vaccine program as well as the
+type of vaccine used.
+
 
